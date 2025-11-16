@@ -1,4 +1,4 @@
-📹# Proyecto de Deep Vision: Clasificación de CIFAR-10 con CNNs
+# 📹Proyecto de Deep Vision: Clasificación de CIFAR-10 con CNNs
 
 Este repositorio documenta un ejercicio práctico de Deep Vision para la clasificación de imágenes del dataset **CIFAR-10** (10 clases) utilizando TensorFlow y Keras.
 
