@@ -61,5 +61,3 @@ Este proyecto está congelado en la versión `v1.0` para garantizar la reproduci
 3.  Abre el notebook principal en Google Colab o Jupyter Lab:
     `CIFAR10_CNN_[tu_apellido].ipynb`
 4.  Ejecuta todas las celdas de principio a fin. El notebook está diseñado para generar automáticamente todas las figuras y artefactos en las carpetas `figuras/` y `results/`.
-
-## 📁 Estructura del Repositorio
